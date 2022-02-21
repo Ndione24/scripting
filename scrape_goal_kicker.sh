@@ -1,6 +1,6 @@
 #!/bin/bash
 # Author ndione24, @NdioneNdione1
-# https://github.com/Ndione24/scripting/scrape_goal_kicker.sh
+# https://github.com/Ndione24/scripting/blob/main/scrape_goal_kicker.sh
 
 domaine="https://books.goalkicker.com/"
 curl "$domaine" > /tmp/tmp.html
